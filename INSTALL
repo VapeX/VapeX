@@ -1,0 +1,9 @@
+Building VapeX
+
+See doc/readme-qt.rst for instructions on building VapeX-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of VapeX.
+
+See doc/build-*.txt for instructions on building VapeXd,
+the intended-for-services, no-graphical-interface, reference
+implementation of VapeX.
